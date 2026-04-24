@@ -6,7 +6,7 @@ This project focuses on detecting Tuberculosis (TB) from chest X-ray images usin
 
 ## Project Preview
 
-![TB Detection UI](asset/Capture.png)
+![TB Detection UI](assets/Capture.PNG)
 
 ---
 
