@@ -1,1 +1,2 @@
-
+Download resnet : https://drive.google.com/file/d/141eZhqmPhohq_aa7qidiLvRDREzT_7l8/view?usp=sharing
+Download densenet : https://drive.google.com/file/d/1agIeIV74HKl8i6DIo5MpU-nEFGs25qdC/view?usp=sharing
