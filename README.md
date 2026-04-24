@@ -12,7 +12,7 @@ This project focuses on detecting Tuberculosis (TB) from chest X-ray images usin
 
 ## Demo Video
 
-[▶ Watch Project Demo](https://youtu.be/hHlS5qtTmLw)
+[![Watch Video](https://img.youtube.com/vi/hHlS5qtTmLw/0.jpg)](https://youtu.be/hHlS5qtTmLw)
 
 ---
 
